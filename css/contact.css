@@ -1,0 +1,23 @@
+.form-container {
+    width: 50%;
+    margin: 0 auto;
+    float: left;
+}
+.map-container {
+    width: 50%;
+    float: left;
+}
+.contact-info {
+    width: 49.5%;
+    height: 100px;
+    border:1px solid black;
+    float:left;
+    text-align: center;
+}
+.company-info {
+    width: 50%;
+    height: 100px;
+    border:1px solid black;
+    float:left;
+    text-align: center;
+}

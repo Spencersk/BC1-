@@ -44,6 +44,7 @@ body {
 }
 .column-container {
   padding: 25px;
+  font-family: "Macondo Swash Caps", cursive;
 }
 .column-container:after {
   content: "";
@@ -76,12 +77,14 @@ body {
   text-align: center;
   border: 1px solid black;
   float:left;
+  font-family: 'Cinzel';
 }
 .diamond-container {
   height: 150px;
   width: 150px;
   padding-left: 90px;
   padding-top: 30px;
+  text-align: center
   
 }
 .social-media {
@@ -115,18 +118,20 @@ body {
 .facebook {
   color:purple;
   font-size:30px;
+  padding-top:20px;
 }
 .twitter {
   color:green;
   font-size:30px;
-  padding-top: 10px;
+  padding-top:20px;
 }
 .instagram {
   color:red;
   font-size:30px;
-  padding-top:10px;
+  padding-top:20px;
 }
-.snapchat {
+.github {
   color:orange;
   font-size:30px;
+  padding-top:20px;
 }
